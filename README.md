@@ -1,6 +1,6 @@
-[![Docker pulls](https://img.shields.io/docker/pulls/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/think/affectiva/)
-[![Docker Build](https://img.shields.io/docker/automated/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/think/affectiva/)
-[![Latest Tag](https://img.shields.io/github/tag/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/think/affectiva/)
+[![Docker pulls](https://img.shields.io/docker/pulls/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/garyfeng/docker-openpose/)
+[![Docker Build](https://img.shields.io/docker/automated/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/garyfeng/docker-openpose/)
+[![Latest Tag](https://img.shields.io/github/tag/garyfeng/docker-openpose.svg)](https://hub.docker.com/r/garyfeng/docker-openpose/)
 
 # docker-openpose
 
