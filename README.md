@@ -8,4 +8,4 @@ Docker Image for [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/open
 
 ## Usage
 
-`sudo nvidia-docker run -v /home/ubuntu/data:/data -it mjsobrep/openpose:latest bash`
+`sudo nvidia-docker run -v /home/ubuntu/data:/data -it garyfeng/docker-openpose:latest bash`
